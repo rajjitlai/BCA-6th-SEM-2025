@@ -1,4 +1,4 @@
-# Welcome to NIELIT Imphal BCA 6th Semester Unofficial Repository
+# Welcome to NIELIT Imphal BCA 6th Semester Repository
 
 ## Overview
 This repository is created to help our classmates stay updated on our 6th-semester syllabus progress, practicals, and important announcements related to class teachings. It also serves as a centralized hub for all information and resources required for our IoT projects.
