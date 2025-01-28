@@ -1,0 +1,23 @@
+# These are the peripheral devices that are needed to be purchased in order to test and develop application based projects
+
+1. LED Bulb - 5 units of Different Colours (These may vary according to your needs)
+
+2. Push Button (Once Pressed Type)
+
+3. Light Dependent Resistor (LDR)
+
+4. DHT22
+
+5. Liquid Crystal Display (LCD)
+
+6. MQ135
+
+7. Bluetooth Module
+
+8. Relay Module
+
+9. Jumper Wire (Hybrid - All types)
+
+10. Bread Board
+
+** These peripheral devices may vary according to your needs **
