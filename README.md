@@ -4,11 +4,11 @@
 This repository is created to help our classmates stay updated on our 6th-semester syllabus progress, practicals, and important announcements related to class teachings. It also serves as a centralized hub for all information and resources required for our IoT projects.
 
 ## Repository Contents
-- **Syllabus Updates**: Get the latest updates on topics covered in class.
-- **Practicals**: Stay informed about scheduled practical sessions and their requirements.
-- **Announcements**: Important announcements will be posted here.
-- **IoT Project Components**: Links to purchase IoT components required for projects.
-- **Additional Resources**: Notes, slides, and reference materials.
+- [**Syllabus Updates**](./Syllabus%20Updates/readme.md): Get the latest updates on topics covered in class.
+- [**Practicals**](./Practicals/readme.md): Stay informed about scheduled practical sessions and their requirements.
+- [**Announcements**](./Announcements/readme.md): Important announcements will be posted here.
+- [**IoT Project Components**](./IoT/readme.md): Links to purchase IoT components required for projects.
+- [**Additional Resources**](./Additional%20Resources/readme.md): Notes, slides, and reference materials.
 
 ## How to Use
 1. Clone this repository to your local system using the command:
