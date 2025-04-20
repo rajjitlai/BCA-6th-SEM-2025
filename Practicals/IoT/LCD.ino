@@ -1,3 +1,13 @@
+// Connection
+/* 
+RS → D8  
+EN → D9  
+D4 → D4  
+D5 → D5  
+D6 → D6  
+D7 → D7
+*/
+
 #include <LiquidCrystal.h>
 
 // LCD Keypad Shield uses fixed pin mappings:
@@ -13,5 +23,5 @@ void setup()
 
 void loop()
 {
-    // No need for updates, text stays on screen
+  // nothing here
 }
