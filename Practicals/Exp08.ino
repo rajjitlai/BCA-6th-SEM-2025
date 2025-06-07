@@ -1,17 +1,23 @@
 #include <SoftwareSerial.h>
-SoftwareSerial bluetoothSerial(2, 3);
+
+SoftwareSerial bluetoothSerial(2, 3); 
 const int relayPin = 7;
+
 void setup()
 {
     pinMode(relayPin, OUTPUT);
-    Serial.begin(9600);
+    digitalWrite(relayPin, LOW);
+
+    Serial.begin(9600);         
     bluetoothSerial.begin(9600);
 }
+
 void loop()
 {
     if (bluetoothSerial.available() > 0)
     {
         char command = bluetoothSerial.read();
+
         if (command == '1')
         {
             digitalWrite(relayPin, HIGH);
